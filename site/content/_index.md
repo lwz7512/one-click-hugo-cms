@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Create software with minimalism"
+subtitle: cheaper, faster, better than you expected...
+image: /img/home-rbt.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Runbytech?
+    text: "We are a small remote team, mainly focus on CMS related products, including online document library,  knowledge base, community driven media store. Easy to use, Low cost to develop, Fast iteration to update, excellent user Experience is our goal to design each of products. Besides, we also provide product custom service for our clients, both in web and mobile. Our value or our vision is using small but exquisite product to solve your big concern."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Runbytech means that we are a technique driven company with a quick pace and fast response to our clients. we produce small yet easy-use software in different area, including WIKI/BBS/Workgroup used in inner-enterprise management, online document libary for press, as well as e-learning system for small to medium size company."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/products-app.jpg
+      text: "We have over 6 years experence to build mobile applications. Using cross-platform development technique such as Cordova/Ionic/React Native to fast implement clients requirements with a low cost is our speciality, as we keep following to those emerging technology from the birth of it. "
+    - image: /img/products-elern.jpg
+      text: "Next level E-learning tool is our new ongoing product, this area has not changed much for many years, but with the new techniques emerging and new online learning habits shaped, we need a more simple/fast/interesting learning and publish tool to adapt to these changes."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: "As an engineer culture dominated team, we think in advance of our clients, have clear choice to do what and not, put great importance to user experience of product, run 24 hours a day to insure our service availability and listen user's demands, suggestions even complaints."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: We deliver Wows
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
