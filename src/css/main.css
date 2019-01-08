@@ -85,3 +85,23 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+.left-right-column {
+  display: flex;
+  flex-direction: row;
+}
+
+.l-col {
+  flex: 1;
+  margin-right: 20px;
+  max-width: 100px;
+}
+
+.r-col {
+  padding-right: 40px;
+}
+
+.r-col p {
+  font-size: 18px;
+  color: #333;
+}

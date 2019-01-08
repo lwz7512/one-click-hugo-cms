@@ -1,6 +1,6 @@
 ---
 title: "We transform efforts into clients satisfaction"
-image: /img/about-jumbotron.jpg
+image: /img/values-triangle-2.jpg
 values:
   - heading: "Shade-grown coffee"
     text: >
