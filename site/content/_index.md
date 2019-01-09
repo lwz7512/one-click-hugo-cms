@@ -9,9 +9,9 @@ intro:
     heading: "What we offer"
     text: "Runbytech means that we are a technique driven company with a quick pace and fast response to our clients. we produce small yet easy-use software in different area, including WIKI/BBS/Workgroup used in inner-enterprise management, online document libary for press, as well as e-learning system for small to medium size company."
 products:
-    - image: img/products-app.jpg
+    - image: /img/products-app.jpg
       text: "We have over 6 years experence to build mobile applications. Using cross-platform development technique such as Cordova/Ionic/React Native to fast implement clients requirements with a low cost is our speciality, as we keep following to those emerging technology from the birth of it. "
-    - image: /img/products-elern.jpg
+    - image: /img/products-elearn.jpg
       text: "Next level E-learning tool is our new ongoing product, this area has not changed much for many years, but with the new techniques emerging and new online learning habits shaped, we need a more simple/fast/interesting learning and publish tool to adapt to these changes."
 values:
     heading: Our values
