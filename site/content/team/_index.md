@@ -1,7 +1,7 @@
 ---
-
 title: "We cooperate seamlessly"
-image: /img/team-rocks.jpg
+type: team
+image: /img/team-banner.jpg
 memers:
   heading: 
   description: >

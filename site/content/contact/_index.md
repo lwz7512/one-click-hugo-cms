@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+type: contact
 logo: "/img/contact-us.png"
 contact_entries:
   - heading: Location

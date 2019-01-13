@@ -1,6 +1,7 @@
 ---
 title: "We transform efforts into clients satisfaction"
-image: /img/values-triangle-2.jpg
+type: values
+image: /img/values-banner.jpg
 values:
   - heading: "Engineer culture dominated team"
     text: >

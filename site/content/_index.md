@@ -1,5 +1,6 @@
 ---
 title: "Create software with minimalism"
+type: home
 subtitle: cheaper, faster, better than you expected...
 image: /img/home-rbt.jpg
 blurb:

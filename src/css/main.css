@@ -86,6 +86,10 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
+.right {
+  text-align: right;
+}
+
 .left-right-column {
   display: flex;
   flex-direction: row;
@@ -108,4 +112,50 @@
 
 .flex-1 {
   flex: 1;
+}
+
+/*  *** add navigation menu active indicator on the top @2019/01/13 */
+nav li {
+  width: 120px;
+  margin: 0 10px;
+}
+
+.menu.pa3 {
+  padding: 1rem 0;
+  text-align: center;
+}
+/* nav li::before {
+  background: var(--primary);
+  content: '';
+  height: 4px;
+  top: 0px;
+  position: absolute;
+  width: 120px;
+} */
+
+nav.on-products li.products::before,
+nav.on-values li.values::before,
+nav.on-team li.team::before,
+nav.on-post li.post::before,
+nav.on-contact li.contact::before {
+  background: var(--primary);
+  content: '';
+  height: 4px;
+  top: 0px;
+  position: absolute;
+  width: 120px;
+}
+
+.one-row-h {
+  height: 4rem;
+  /* height: 4em; */
+}
+
+/* mobile */
+@media screen and (max-width: 480px) {
+  /* h1 in banner image */
+  .one-row-h .f2 {
+    font-size: 1.5rem;
+  }
+
 }

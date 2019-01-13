@@ -1,7 +1,7 @@
 ---
 title: We deliver Wows
 type: products
-image: /img/products-technology.jpg
+image: /img/products-banner.jpg
 intro:
   heading: What we offer
   description: >
