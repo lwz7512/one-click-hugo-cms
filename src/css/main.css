@@ -151,11 +151,18 @@ nav.on-contact li.contact::before {
   /* height: 4em; */
 }
 
+.one-row-below {
+  margin-top: 4.5rem;
+}
+
 /* mobile */
 @media screen and (max-width: 480px) {
-  /* h1 in banner image */
-  .one-row-h .f2 {
-    font-size: 1.5rem;
+
+  .f2 {
+    /* font-size: 1.5rem; */
+  }
+  .one-row-below {
+    display: none;
   }
 
 }
