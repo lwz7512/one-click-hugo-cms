@@ -17,9 +17,13 @@ intro:
       text: >
         Next level E-learning tool is our new ongoing product, this area has not changed much for many years, but with the new techniques emerging and new online learning habits shaped, we need a more simple/fast/interesting learning and publish tool to adapt to these changes.
     - image: /img/products-doclib.jpg
+      demo: 'http://yanhuang.space/'
+      source: 'https://github.com/lwz7512/gitbook'
       text: >
         Document library product `gitbook-TL` is our biggest open source project. we extend the basic functionality of gitbook, add new features, solve the legacy problems, continue to evolve this document tool to a new level. Then we are proud to annouce it a wonderful and valuable product.
     - image: /img/products-cms.jpg
+      demo: 'https://runbytech.github.io/kanjian/'
+      source: 'https://github.com/lwz7512/gatsby-kanjian'
       text: >
         We believe that CMS software still has immense space to develop nowadays. People have different requirements and desire to publish or seek valuable stuff, we provide the smallest CMS tool to help all kinds of writers to use, fast running, low even tiny cost, easy to get started.
 
@@ -46,6 +50,7 @@ testimonials:
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
+
 pricing:
   heading: Monthly subscriptions
   description: >-

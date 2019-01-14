@@ -114,6 +114,16 @@
   flex: 1;
 }
 
+.flex-1.center {
+  /* justify-content: center; */
+  text-align: center;
+}
+
+.primary-link {
+  color: var(--primary);
+  font-size: 0.6rem;
+}
+
 /*  *** add navigation menu active indicator on the top @2019/01/13 */
 nav li {
   width: 120px;
