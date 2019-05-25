@@ -16,8 +16,8 @@ memers:
       name: Rain.hao
       text: >
         Chief designer, senior graphic designer with more than 10 years experience of industry software UI, magzine, advertisement, packaging design. The best outstanding speciality of her is corperate identity design. She's toolset including photoshop/illustrator/indesign, and she love photography, fashion dress, travel, as well as food.
-    - image: /img/team-jian.png
-      name: Jian
+    - image: /img/thomas_zhang.png
+      name: Thomas
       text: >
         Project manager,  growing from coder for many years then turn to PM, he is the most talktive and creative person in our team. His responsibility includes project planning, user requirement accessment, and project delivery.
     - image: /img/team-su.png
