@@ -7,9 +7,9 @@
 
 		{{ .Content }}
 
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div class="flex-1">
+		<div class="flex-ns mb3 flex-wrap" style="max-width: 800px;">
+	    {{ range .Params.contact_entries }}
+				<div class="flex-1" style="min-width: 300px">
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
 					<p>{{ .text }}</p>
 				</div>

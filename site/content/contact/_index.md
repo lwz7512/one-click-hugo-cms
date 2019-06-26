@@ -7,6 +7,10 @@ contact_entries:
     text: "Halifax, Candada"
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM"
+  - heading: Email
+    text: "lwz7512@gmail.com"
+  - heading: Mobile
+    text: "+19022377065" 
 ---
 
 We’d love to get in touch with you and hear your ideas and

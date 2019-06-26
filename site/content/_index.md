@@ -1,5 +1,5 @@
 ---
-title: "Create software with minimalism"
+title: "Minimalism software solution provider"
 type: home
 subtitle: cheaper, faster, better than you expected...
 image: /img/home-rbt.jpg
